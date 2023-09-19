@@ -1,0 +1,42 @@
+body{
+    background-color: aliceblue;
+    color: darkblue;
+}
+
+
+a:link{
+    color:crimson
+}
+a:visited{
+    color:crimson
+}
+a:hover{
+    color:crimson
+}
+a:active{
+    color:crimson
+}
+
+h2{
+    color: crimson;
+}
+
+
+#jobkep{
+    width: 230px;
+    height: 153px;
+    float:right;
+}
+#bal{
+    float: left;
+}
+
+
+
+table{
+    width: 500px;
+}
+
+hr{
+    width: 70%;
+}
